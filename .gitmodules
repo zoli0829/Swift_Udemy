@@ -1,3 +1,12 @@
 [submodule "BMI-Calculator-iOS15"]
 	path = BMI-Calculator-iOS15
 	url = https://github.com/zoli0829/Swift_Udemy.git
+[submodule "Destini-iOS15"]
+	path = Destini-iOS15
+	url = https://github.com/zoli0829/Swift_Udemy.git
+[submodule "EggTimer-iOS15"]
+	path = EggTimer-iOS15
+	url = https://github.com/zoli0829/Swift_Udemy.git
+[submodule "Quizzler-iOS15"]
+	path = Quizzler-iOS15
+	url = https://github.com/zoli0829/Swift_Udemy.git
